@@ -1,9 +1,9 @@
-# ```Hey there!, I’m Facundo.```
+# ```¡Hola!, soy Facundo.```
 
 * :godmode: I’m interested in **Programming**
-* :suspect: I’m currently learning English, Web Development, git, frameworks and other stuff
-* :goberserk: I’m looking to collaborate on any project to help me to gain some experience in the programming world
-* :feelsgood: How to reach me? If you like my repos, you would contact me by _**[e-mail](mailto:facumorel1996@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/facundomorel)**_
+* :suspect:  Actualmente estoy aprendiendo inglés, desarrollo web, frameworks y otras cosas.
+* :goberserk: Busco colaborar en cualquier proyecto que me ayude a ganar algo de experiencia en el mundo de la programación.
+* :feelsgood: ¿Cómo se puede llegar a mí? Si te gustan mis repos, puedes ponerte en contacto conmigo a través de _**[e-mail](mailto:facumorel1996@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/facundomorel)**_
 
   <p align="left">
   <a href="https://github.com/FacuMorel"><img width="400" src="https://github-readme-stats.vercel.app/api?username=FacuMorel&show_icons=true&theme=gruvbox">
@@ -12,7 +12,7 @@
 </p>
 
     
-## My repos
+## Mis repos
     
 <p align="left">
   
