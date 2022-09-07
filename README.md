@@ -3,7 +3,7 @@
 * :godmode: Interesado por el mundo de la tecnología especialmente por el FrontEnd.
 * :suspect:  Actualmente estoy aprendiendo inglés, desarrollo web, frameworks y otras cosas.
 * :goberserk: Busco colaborar en cualquier proyecto que me ayude a ganar algo de experiencia en el mundo de la programación.
-* :feelsgood: ¿Cómo se puede llegar a mí? Si te gustan mis repos, puedes ponerte en contacto conmigo a través de _**[e-mail](mailto:facumorel1996@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/facundomorel)**_
+* :feelsgood: Contactame, Si te gustan mis repos, puedes ponerte en contacto conmigo a través de _**[e-mail](mailto:facumorel1996@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/facundomorel)**_
 
   <p align="left">
   <a href="https://github.com/FacuMorel"><img width="400" src="https://github-readme-stats.vercel.app/api?username=FacuMorel&show_icons=true&theme=gruvbox">
